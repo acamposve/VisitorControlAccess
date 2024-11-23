@@ -3,7 +3,7 @@ trigger:
   - develop
 
 pool:
-  vmImage: 'ubuntu-latest'
+  name: Default
 
 variables:
   solution: '**/*.sln'
