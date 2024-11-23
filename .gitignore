@@ -1,0 +1,5 @@
+# Ignorar configuración de Visual Studio
+.vs/
+bin/
+obj/
+*.user
